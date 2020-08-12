@@ -1,6 +1,6 @@
 [
     {
-        "Name"                  : "mtd-util",
+        "Name"                  : "mtd-utils",
         "License"               : "GPL V2.0",
         "License File"          : "COPYING",
         "Version Number"        : "2.1.1",
