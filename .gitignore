@@ -143,7 +143,6 @@ test-driver
 
 # stgit generated dirs
 patches-*
-*.patch
 
 # cscope and ctag files
 cscope.*
